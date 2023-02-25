@@ -16,10 +16,7 @@ if __name__ == '__main__':
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
 
 
-#第二次修改
 
-def indefdg():
-    pass
 
 
 
